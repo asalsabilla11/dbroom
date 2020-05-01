@@ -1,4 +1,4 @@
-package com.example.sharedpreferencesabil;
+package com.example.roomsabil;
 
 import androidx.room.Database;
 import androidx.room.RoomDatabase;

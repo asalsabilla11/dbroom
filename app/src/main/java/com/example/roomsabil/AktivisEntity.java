@@ -1,4 +1,4 @@
-package com.example.sharedpreferencesabil;
+package com.example.roomsabil;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
