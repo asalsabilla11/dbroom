@@ -1,0 +1,2 @@
+rootProject.name='SharedPreferenceSabil'
+include ':app'
